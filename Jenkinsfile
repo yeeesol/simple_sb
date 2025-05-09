@@ -8,7 +8,7 @@ pipeline {
         GITNAME = 'yeeesol'            
         GITEMAIL = 'hsme9724@gmail.com' 
         GITWEBADD = 'https://github.com/yeeesol/simple_sb.git'
-        GITSSHADD = 'git@github.com:yeeesol/simple_sb.git'
+        GITSSHADD = 'git@github.com:yeeesol/dep.git'
         GITCREDENTIAL = 'git_cre'
         
         DOCKERHUB = 'yeso1/spring'
